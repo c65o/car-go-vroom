@@ -1,4 +1,4 @@
-Racerbils neuro evolution – “normal” opgaven
+Racerbils neuro evolution – “normal” opgaven.
 Opgave: Lav et program, der træner en autonom racerbil så den er i stand til at køre en omgang på kortest tid som muligt m. udleveret kode.
 
 Til den allerede udleveret kode har jeg lavet en ny klasse, der hedder ”raceAlgoritme”, her skriver man alt det primære kode. 
